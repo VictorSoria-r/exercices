@@ -48,6 +48,8 @@ public class SparceArray {
         List<Integer> res = matchingStrings(strings, queries);
         res.stream().forEach(System.out::println);
     }
-
+  /*  Link Description Problem
+    https://www.hackerrank.com/challenges/sparse-arrays/problem
+    */
 
 }
